@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @KritishmaPradhan
 - 👀 I’m interested in programming, designing and travelling
 - 🌱 I’m currently learning computer science
-- 📫 my email: pradhankritishma@gmail.com/ linkedin: KritishmaPradhan
+- 📫 my email: pradhankritishma@gmail.com/ linkedin: www.linkedin.com/in/kritishma-pradhan-8181b1293
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I am 20 and still don't know swimming and cycling >_< 
+- ⚡ Fun fact: Wish I had the teleportation power then I would travel the entire world  >_< . Reading minds would also be fun 
 
 <!---
 KritishmaPradhan/KritishmaPradhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
